@@ -1,0 +1,2 @@
+Projekt bazy danych oddziału położniczego w szpitalu. Baza ta ma za zadanie trzymanie szczegółowych danych pacjentów, w tym o ich noworodkach oraz historię chorób.
+Szczegółowe dane o pielęgniarkach oraz o lekarzach, oraz informację o salach, w których są przypisani pacjenci, lekarz oraz pielęgniarka.

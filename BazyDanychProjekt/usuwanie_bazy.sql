@@ -1,0 +1,1 @@
+DROP DATABASE oddzial_polozniczy;
